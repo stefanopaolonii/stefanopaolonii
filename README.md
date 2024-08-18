@@ -24,7 +24,7 @@ Here are some of my recent statistics for public repositories:
 
 ## 📫 How to Reach Me
 
-- 🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/stefanopaoloni/))
+- 🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/stefanopaoloni)
 
 ## 🔗 Projects
 
