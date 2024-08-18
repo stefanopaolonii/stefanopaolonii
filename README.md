@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! 👋 I'm Stefano 🚀
 
-<!--
-**stefanopaolonii/stefanopaolonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Engineering student passionate about software development and technology. Here you’ll find my projects and contributions.
 
-Here are some ideas to get you started:
+## 🌟 Programming Languages and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the technologies and programming languages I work with:
+
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C41?logo=assemblyscript&logoColor=white)
+
+## 📈 Statistics
+
+Here are some of my recent statistics for public repositories:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefanopaolonii&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
+## 🔧 Tools and Work Environment
+
+- **IDE**: VSCode
+- **Version Control**: Git
+
+## 📫 How to Reach Me
+
+- 🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/stefanopaoloni/))
+
+## 🔗 Projects
+
+- **[Object-Oriented Programming Exam](https://github.com/stefanopaolonii/oop_v2)**;
+
+Thanks for visiting my GitHub profile!
+
+---
+
+*Last updated: [2024/08/18]*
+
