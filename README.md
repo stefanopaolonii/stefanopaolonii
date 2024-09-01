@@ -22,7 +22,6 @@ Here are some of my recent statistics for public repositories:
 ## 🔧 Tools and Work Environment
 
 - **IDE**: VSCode
-- **Version Control**: Git
 
 ## 📫 How to Reach Me
 
