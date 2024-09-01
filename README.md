@@ -11,6 +11,8 @@ Here are some of the technologies and programming languages I work with:
 ![Java](https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C41?logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
+
 
 ## 📈 Statistics
 
