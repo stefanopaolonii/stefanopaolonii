@@ -20,7 +20,11 @@ Here are some of the technologies and programming languages I work with:
 
 Here are some of my recent statistics for public repositories:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefanopaolonii&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
+<p align="center">
+   <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stefanopaolonii&theme=github_dark" />
+<!--    <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeClimberNT&theme=github_dark&exclude=" /> -->
+</p>
+
 ## 🔧 Tools and Work Environment
 
 - **IDE**: VSCode
