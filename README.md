@@ -35,11 +35,12 @@ Here are some of my recent statistics for public repositories:
 
 ## 🔗 Projects
 
-- **[Object-Oriented Programming Exam](https://github.com/stefanopaolonii/oop_v2)**;
+- **[Telegram-Quiz-Bot](https://github.com/stefanopaolonii/telegram-quiz-bot)**
+- **[Object-Oriented Programming Exam](https://github.com/stefanopaolonii/oop_v2)**
 
 Thanks for visiting my GitHub profile!
 
 ---
 
-*Last updated: [2024/08/18]*
+*Last updated: [2025/02/05]*
 
