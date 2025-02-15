@@ -1,10 +1,12 @@
-# Hi there! 👋 I'm Stefano 🚀
+# 🚀 Welcome to My GitHub! | Stefano Paoloni  
 
-I’m a Computer Engineering student passionate about software development and technology. Here you’ll find my projects and contributions.
+Hi there! I'm **Stefano Paoloni**, a passionate **Computer Engineering Student** who loves **software development, algorithms, and problem-solving**. Here you'll find my projects, contributions, and insights into various programming languages and technologies.
 
-## 🌟 Programming Languages and Technologies
+---
 
-Here are some of the technologies and programming languages I work with:
+## 🛠️ Technologies & Tools
+
+### 🚀 Programming Languages:
 
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -12,35 +14,49 @@ Here are some of the technologies and programming languages I work with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C41?logo=assemblyscript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
-![SQL Badge](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
+### 🛠️ Developer Toolkit:
 
-
-## 📈 Statistics
-
-Here are some of my recent statistics for public repositories:
-
-<p align="center">
-   <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stefanopaolonii&theme=github_dark" />
-<!--    <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeClimberNT&theme=github_dark&exclude=" /> -->
-</p>
-
-## 🔧 Tools and Work Environment
-
-- **IDE**: VSCode
-
-## 📫 How to Reach Me
-
-- 🌐 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/stefanopaoloni)
-
-## 🔗 Projects
-
-- **[Telegram-Quiz-Bot](https://github.com/stefanopaolonii/telegram-quiz-bot)**
-- **[Object-Oriented Programming Exam](https://github.com/stefanopaolonii/oop_v2)**
-
-Thanks for visiting my GitHub profile!
+- **🖥️ IDEs**: Visual Studio Code, IntelliJ IDEA
+- **💻 Operating Systems**: Linux, Windows, macOS
+- **🔗 Version Control**: Git & GitHub
 
 ---
 
-*Last updated: [2025/02/05]*
+## 📊 GitHub Stats
 
+<p align="center">
+   <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stefanopaolonii&theme=github_dark" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+🚀 Here are some of my most exciting projects:
+
+- **📌 [Telegram Quiz Bot](https://github.com/stefanopaolonii/telegram-quiz-bot)** - A Telegram bot that manages interactive quizzes.
+- **📌 [OOP Exam](https://github.com/stefanopaolonii/oop_v2)** - A project for my Object-Oriented Programming exam.
+
+Check out my repositories for more interesting projects! 💡
+
+---
+
+## 📬 Get in Touch
+
+💡 If you're interested in collaborating or just want to chat about tech, feel free to reach out:
+
+- 🌐 **LinkedIn**: [Stefano Paoloni](https://www.linkedin.com/in/stefanopaoloni)
+- 📧 **Email**: stefanopaoloni.work@gmail.com
+
+---
+
+### ⭐ Thank You for Visiting!
+
+If you find my projects useful or inspiring, consider **starring ⭐ my repositories** or connecting with me on LinkedIn. Let's build something amazing together! 🚀
+
+---
+<!-- Stefano Paoloni GitHub, software projects, software development, programming, C, Python, Java, GitHub portfolio, Telegram bot, API REST, Computer Engineering Student -->
+
+📅 **Last Updated:** *[2025/02/15]*
