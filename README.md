@@ -37,6 +37,7 @@ Hi there! I'm **Stefano Paoloni**, a passionate **Computer Engineering Student**
 🚀 Here are some of my most exciting projects:
 
 - **📌 [Telegram Quiz Bot](https://github.com/stefanopaolonii/telegram-quiz-bot)** - A Telegram bot that manages interactive quizzes.
+- **📌 [ASE Project](https://github.com/stefanopaolonii/pacman)** - A project for ASE exam.
 - **📌 [OOP Exam](https://github.com/stefanopaolonii/oop_v2)** - A project for my Object-Oriented Programming exam.
 
 Check out my repositories for more interesting projects! 💡
