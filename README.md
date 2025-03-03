@@ -27,15 +27,8 @@ Hi there! I'm **Stefano Paoloni**, a passionate **Computer Engineering Student**
 ## 📊 GitHub Stats
 
 <p align="center">
-   <img style="height:170px;display:inline-block"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stefanopaolonii&theme=github_dark" />
-</p>
-
-## Activity Graph
-
-<p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
 </p>
-
 
 ---
 
