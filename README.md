@@ -8,13 +8,14 @@ Hi there! I'm **Stefano Paoloni**, a passionate **Computer Engineering Student**
 
 ### 🚀 Programming Languages:
 
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C41?logo=assemblyscript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=java&logoColor=EA2D2E)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1C)
+![Assembly](https://img.shields.io/badge/-Assembly-0d1117?style=flat-square&logo=assemblyscript&logoColor=6E4C41)
+![Bash](https://img.shields.io/badge/-Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=89E051)
+![SQLite](https://img.shields.io/badge/-SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)
+
 
 ### 🛠️ Developer Toolkit:
 
@@ -25,6 +26,7 @@ Hi there! I'm **Stefano Paoloni**, a passionate **Computer Engineering Student**
 ---
 
 ## 📊 GitHub Stats
+![Discord](https://img.shields.io/discord/1336983930015846400?style=flat-square&logo=discord&logoColor=ffffff&labelColor=0d1117&link=https%3A%2F%2Fdiscord.gg%2FWJDjPHANV7)
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
