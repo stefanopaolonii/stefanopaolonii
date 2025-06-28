@@ -23,16 +23,6 @@ Hi there! I'm **Stefano Paoloni**, a passionate **Computer Engineering Student**
 - **💻 Operating Systems**: Linux, Windows, macOS
 - **🔗 Version Control**: Git & GitHub
 
----
-
-## 📊 GitHub Stats
-![Discord](https://img.shields.io/discord/1336983930015846400?style=flat-square&logo=discord&logoColor=ffffff&labelColor=0d1117&link=https%3A%2F%2Fdiscord.gg%2FWJDjPHANV7)
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
-</p>
-
----
 
 ## 🌟 Featured Projects
 
@@ -47,6 +37,8 @@ Check out my repositories for more interesting projects! 💡
 ---
 
 ## 📬 Get in Touch
+
+![Discord](https://img.shields.io/discord/1336983930015846400?style=flat-square&logo=discord&logoColor=ffffff&labelColor=0d1117&link=https%3A%2F%2Fdiscord.gg%2FWJDjPHANV7)
 
 💡 If you're interested in collaborating or just want to chat about tech, feel free to reach out:
 
