@@ -27,7 +27,7 @@ Hi there! I'm **Stefano Paoloni**, a passionate **Computer Engineering Student**
 ## 🌟 Featured Projects
 
 🚀 Here are some of my most exciting projects:
-
+- **📌 [Visitor Badge Generator](https://github.com/stefanopaolonii/visitor-badge)** – A lightweight service that allows users to generate customizable visitor counter badges for their GitHub READMEs.
 - **📌 [Telegram Quiz Bot](https://github.com/stefanopaolonii/telegram-quiz-bot)** - A Telegram bot that manages interactive quizzes.
 - **📌 [ASE Project](https://github.com/stefanopaolonii/pacman)** - A project for ASE exam.
 - **📌 [OOP Exam](https://github.com/stefanopaolonii/oop_v2)** - A project for my Object-Oriented Programming exam.
@@ -39,6 +39,7 @@ Check out my repositories for more interesting projects! 💡
 ## 📬 Get in Touch
 
 ![Discord](https://img.shields.io/discord/1336983930015846400?style=flat-square&logo=discord&logoColor=ffffff&labelColor=0d1117&link=https%3A%2F%2Fdiscord.gg%2FWJDjPHANV7)
+![Visits](https://visitor-badge-self.vercel.app//api/badge/a5a3aa0e-b53a-43d8-ac59-e64296188ea6?style=flat-square&color=ffd700&labelColor=0d1117)
 
 💡 If you're interested in collaborating or just want to chat about tech, feel free to reach out:
 
@@ -54,4 +55,4 @@ If you find my projects useful or inspiring, consider **starring ⭐ my reposito
 ---
 <!-- Stefano Paoloni GitHub, software projects, software development, programming, C, Python, Java, GitHub portfolio, Telegram bot, API REST, Computer Engineering Student -->
 
-📅 **Last Updated:** *[2025/02/15]*
+📅 **Last Updated:** *[2025/11/20]*
