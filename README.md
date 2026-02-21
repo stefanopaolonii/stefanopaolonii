@@ -39,7 +39,6 @@ Check out my repositories for more interesting projects! 💡
 ## 📬 Get in Touch
 
 ![Discord](https://img.shields.io/discord/1336983930015846400?style=flat-square&logo=discord&logoColor=ffffff&labelColor=0d1117&link=https%3A%2F%2Fdiscord.gg%2FWJDjPHANV7)
-![Visits](https://visitor-badge-self.vercel.app//api/badge/a5a3aa0e-b53a-43d8-ac59-e64296188ea6?style=flat-square&color=ffd700&labelColor=0d1117)
 
 💡 If you're interested in collaborating or just want to chat about tech, feel free to reach out:
 
