@@ -27,7 +27,6 @@ Hi there! I'm **Stefano Paoloni**, a passionate **Computer Engineering Student**
 ## 🌟 Featured Projects
 
 🚀 Here are some of my most exciting projects:
-- **📌 [Visitor Badge Generator](https://github.com/stefanopaolonii/visitor-badge)** – A lightweight service that allows users to generate customizable visitor counter badges for their GitHub READMEs.
 - **📌 [Telegram Quiz Bot](https://github.com/stefanopaolonii/telegram-quiz-bot)** - A Telegram bot that manages interactive quizzes.
 - **📌 [ASE Project](https://github.com/stefanopaolonii/pacman)** - A project for ASE exam.
 - **📌 [OOP Exam](https://github.com/stefanopaolonii/oop_v2)** - A project for my Object-Oriented Programming exam.
